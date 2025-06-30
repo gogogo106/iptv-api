@@ -50,4 +50,130 @@ CETV早教,CETV早期教育,早期教育
 CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
+北京卫视,北京卫视4K,北京卫视4K超高清
+
+福建文体,福建体育
+福建经济,福建经视
+福州综合,FZTV1,FZTV-1,福州1-新闻
+福州生活,FZTV3,FZTV-3,福州3-生活
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+藏语卫视,西藏藏语卫视
+
+无线新闻,無綫新聞台,无线新闻台,TVB无线新闻,TVB无线新闻台,TVB无线新闻（备用）
+无线星河,TVB无线星河
+RTHK-31,港台電視 31,RTHK31,RTHK 31,港台电视 31
+RTHK-32,港台電視 32,RTHK32,RTHK 32,港台电视 32
+翡翠台,TVb翡翠台,tvb翡翠台,翡翠台HD,翡翠台4K,TVB翡翠台（备用）
+翡翠台(北美),翡翠剧集台(北美)
+翡翠综合台,翡翠综合台(北美)
+明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+明珠台(北美),明珠剧集台(北美)
+凤凰中文,凤凰卫视中文台,鳳凰中文,鳳凰中HD,鳳凰衛視中文台
+凤凰香港,凤凰卫视香港台,鳳凰香港,鳳凰香港HD,鳳凰衛視香港台
+凤凰资讯,鳳凰資訊,鳳凰資訊HD,凤凰资讯高清,鳳凰衛視資訊台
+凤凰电影,鳳凰電影臺,凤凰电影台,
+HOY 国际财经台,HOY 國際財經台,HOY国际财经台,HOY國際財經台
+HOY TV,HOY TV
+HOY 资讯台,HOY資訊台,HOY资讯台,HOY 資訊台
+
+NHK综合,NHK総合,NHK G,NHKテレビ,GTV,NHK総合 東京 (720p Willfon)
+NHK教育,NHK Eテレ,NHK E, Eテレ, 教育テレビ,NHK教育 (720p Willfon)
+NHK世界新闻,NHK World Japan
+日本电视台,日本テレビ,日テレ, NTV, AX,日本テレビ (720p Willfon)
+日本电视台亚洲,BS Asahi
+TBS电视台,TBSテレビ,TBS,TBSテレビ (720p Willfon)
+富士电视台,フジテレビ,フジ, CX,フジテレビ (720p Willfon)
+朝日电视台,テレビ朝日,EX, テレ朝,テレビ朝日 (720p Willfon)
+东京电视台,テレビ東京,"テレ東, TV TOKYO, TX, てれと",テレビ東京 (720p Willfon),BS TV Tokyo
+东京都会电视台,TOKYO MX,MX, MXTV
+东京都会电视台1,TOKYO MX1
+东京都会电视台2,TOKYO MX2
+每日放送,MBSテレビ,MBS毎日放送, MBS
+朝日放送,ABCテレビ,朝日放送テレビ, ABC TV,ABC,
+关西电视台,関西テレビ,カンテレ, KTV, 関西テレビ放送
+大阪电视台,テレビ大阪,TVO,TV Osaka
+SUN电视台,サンテレビ,SUN, サンテレビ, SUN-TV
+读卖电视台,読売テレビ,ytv, 讀賣テレビ放送
+日本BS放送,BS11,日本BS放送, BSイレブン,NHK BS (720p Willfon)
+NHK BS1,BS1,NHK BS1
+NHK BSP4K,NHK BSP4K (720p Willfon)
+BS Japanext,BS Japanext,ビーエスジャパネクスト
+BS朝日,BS朝日,ビーエス朝日, BSA, BS Asahi,BS朝日 (720p Willfon)
+BS日本,BS日テレ,BS日本, BS4,BS日テレ (720p Willfon)
+BS-TBS,BS-TBS,ビーエス ティービーエス,BS-TBS (720p Willfon)
+BS东视,BSテレ東,BSテレビ東京,BSテレ東 (720p Willfon)
+BS富士,BS FUJI,BSフジ,BSフジ (720p Willfon),Fuji TV
+WOWOW电影台,WOWOWシネマ,WOWOWシネマ,CINEMA,WOWOWシネマ (720p Willfon)
+WOWOW白金台,WOWOWプライム,WOWOWプライム,PRIME,WOWOWプライム (720p Willfon) 
+WOWOW直播台,WOWOWライブ,WOWOWライブ,LIVE,WOWOWライブ (720p Willfon)
+BS钓鱼电视,BS釣りビジョン,釣りビジョン,釣りビジョン (720p Willfon)
+星空频道1,星空频道1 HD,STAR1 HD,スターチャンネル1,スターチャンネル (720p Willfon)
+星空频道2,星空频道2 HD,STAR2 HD,スターチャンネル2
+星空频道3,星空频道3 HD,STAR3 HD,スターチャンネル3
+日本电影频道,日本映画専門,日本映画専門チャンネル,日本映画専門チャンネル (720p Willfon)
+CGNTV,CGNTV Japan
+AXN频道,AXN,エーエックスエヌ
+富士电视NEXT	,フジテレビNEXT,フジNEXT
+CNN日本,CNNj,シーエヌエヌジェイ
+Family剧场,ファミリー劇場 HD,ファミ劇, ファミリーげきじょう,ファミリー劇場 (720p Willfon),Family Gekijyo
+TABI Channel,旅チャンネル HD,たびチャンネル
+动画剧场X,AT-X,アニメシアターX
+Music Air,Music Air,ミュージック・エア
+AXN推理頻道,AXN Mystery,AXNミステリー
+卡通频道,Cartoon Network,カートゥーン, CN,Cartoon Network Japan
+Animax,Animax,アニマックス
+迪士尼频道,Disney,ディズニー・チャンネル,Disney Channel
+Kids Station,Kids,キッズステーション,キッズステーション (720p Willfon)
+Golf Network,Golf Network,GC, ゴルチャン
+sky-A,スカイA,スカイ・エー
+GAORA,GAORA,ガオラ,GAORA (720p Willfon),Gaora Sports
+日视G+,G+,ジータス, 日テレジータス,日テレジータス (720p Willfon)
+GREEN Channel,GREEN,グリーンチャンネル
+国家地理频道,National Geographic,ナショナル ジオグラフィック
+探索频道,Discovery,ディスカバリーチャンネル
+J SPORTS 1,J SPORTS 1 HD,ジェイ・スポーツ 1,JSPORTS 1 (720p Willfon)
+J SPORTS 2,J SPORTS 2 HD,ジェイ・スポーツ 2,JSPORTS 2 (720p Willfon)
+J SPORTS 3,J SPORTS 3 HD,ジェイ・スポーツ 3,JSPORTS 3 (720p Willfon)
+J SPORTS 4,J SPORTS 4 HD,ジェイ・スポーツ 4,JSPORTS 4 (720p Willfon)
+日视NEWS24,NEWS24,日テレNEWS24
+MTV,エムティーヴィー
+MUSIC ON TV,MUSIC ON!,M-ON!, エムオン!,Music ON TV! (720p Willfon)
+FIGHTING TV,FIGHTING TV サムライ
+时代剧专门频道,時代劇専門,時代劇専門チャンネル,時代劇専門チャンネル (720p Willfon)
+东映频道,東映チャンネル,とうえいチャンネル, TOEI,東映チャンネル (720p Willfon)
+富士电视ONE,フジテレビONE,フジONE
+富士电视TWO,フジテレビTWO,フジTWO
+NECO频道,チャンネルNECO,チャンネルネコ,チャンネルNECO (720p Willfon)
+卫星剧场,衛星劇場,えいせいげきじょう
+Nittele PLUS,日テレプラス,ドラマ・アニメ・音楽ライブ
+银河频道,チャンネル銀河,チャンネルぎんが,チャンネル銀河 (720p Willfon),Channel Ginga
+日经CNBC,日経CNBC,にっけいシー・エヌ・ビー・シー
+MONDO TV,モンドティーヴィー
+朝视频道1,テレ朝チャンネル1,テレあさチャンネル1
+朝视频道2,テレ朝チャンネル2,テレあさチャンネル2
+Music Japan TV,ミュージック・ジャパンTV,MJTV
+SPACE SHOWER,スペースシャワーTV,SSTV, スペシャ,Space Shower TV
+历史频道,History,ヒストリー
+迪士尼少儿频道,Disney Junior,ディズニージュニア
+动物星球,Animal Planet,アニマルプラネット
+TBS频道1,TBSチャンネル1,ティービーエスチャンネル1,TBS Channel 1
+TBS频道2,TBSチャンネル2,ティービーエスチャンネル2,TBS Channel 2
+福克斯频道,Fox,フォックス, FOXチャンネル
+外国电视剧频道,スーパー!ドラマTV (720p Willfon)
+日本24小时新闻,日テレNEWS LIVE,Japan News 24H LIVE
+BSアニマックス,BSアニマックス (720p Willfon)
+Mnet,Mnet (720p Willfon)
+アクションチャンネル,アクションチャンネル (720p Willfon)
+Dlife,Dlife (720p Willfon)
+ゴルフネットワーク,ゴルフネットワーク (720p Willfon)
+歌謡ポップスチャンネル,歌謡ポップスチャンネル (720p Willfon)
+ホームドラマチャンネル,ホームドラマチャンネル (720p Willfon)
+LaLaTV,LaLaTV (720p Willfon)
+ムービープラス,ムービープラス (720p Willfon)
+囲碁・将棋チャンネル,囲碁・将棋チャンネル (720p Willfon)
+スカイA,スカイA (720p Willfon)
+TV Asahi,TV Asahi
+KBS,KBS
+BS10,BS10
+Kansai TV,Kansai TV
+
