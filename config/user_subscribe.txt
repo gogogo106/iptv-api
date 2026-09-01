@@ -1,0 +1,31 @@
+﻿# 这是订阅源列表，每行一个订阅地址
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/lxglyhlwl/luongz-iptv-jp/refs/heads/main/jp.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://epg.pw/test_channels_macau.m3u
+https://epg.pw/test_channels_taiwan.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://epg.pw/test_channels_malaysia.m3u
+https://iptv-org.github.io/iptv/countries/jp.m3u
+https://epg.pw/test_channels_singapore.m3u
+https://raw.gh.registry.cyou/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
+https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/27619007-tech/iptv-jp-2025/refs/heads/main/jp.m3u
+https://epg.pw/test_channels.m3u
+https://epg.pw/test_channels_hong_kong.m3u
+https://live.zbds.top/tv/iptv4.txt
+http://xhztv.top/new.txt
+https://live.zbds.top/tv/iptv4.txt
+https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
