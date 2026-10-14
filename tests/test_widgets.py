@@ -117,6 +117,16 @@ class SettingsEditorLayoutTests(unittest.TestCase):
         legacy_index = model.index(legacy_row, 1)
         self.assertFalse(model.flags(legacy_index) & Qt.ItemFlag.ItemIsEditable)
 
+        proxy_description = next(
+            row["description"] for row in model.all_rows if row["key"] == "http_proxy"
+        )
+        self.assertTrue(
+            "HTTP 代理地址" in proxy_description
+            or "HTTP proxy address" in proxy_description
+        )
+        self.assertNotIn("优惠码", proxy_description)
+        self.assertNotIn("Coupon code", proxy_description)
+
     def test_data_directory_dialog_shows_current_path_and_saves_selection(self):
         settings = QSettings()
         previous = settings.value("runtime/data_directory")
